@@ -1,0 +1,6 @@
+# LOQ Jet Engine Assets Directory
+Contains application metadata and visual configurations.
+Machine Profile: Lenovo LOQ 15IRX9 (Type 83DV)
+CPU: Intel Core i7-13645HX (14 Cores / 20 Threads)
+GPU: NVIDIA GeForce RTX 4050 Laptop GPU (6 GB GDDR6)
+RAM: 32 GB DDR5

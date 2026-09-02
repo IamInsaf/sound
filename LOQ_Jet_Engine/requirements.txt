@@ -1,0 +1,4 @@
+# LOQ Jet Engine - Python Requirements
+customtkinter>=5.2.0
+psutil>=5.9.0
+pillow>=10.0.0
